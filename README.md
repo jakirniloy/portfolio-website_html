@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jakirniloy.github.io)**
 
-- 🥅 2021 Goals: **To become a successful flutter developer**
+- 🥅 2021 Goals: **To become a successful web developer**
 
 - 📫 How to reach me **mdjakirhossen13@gmail.com**
 
