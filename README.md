@@ -37,8 +37,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JakirNiloy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JakirNiloy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakirniloy&show_icons=true&locale=en&layout=compact" alt="jakirniloy" /></p>
+  <br/>
+    <a href="https://github.com/jakirniloy/github-readme-stats"><img alt="Sabik Rahat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabikrahat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jakirniloy/github-readme-stats"><img alt="jakirniloy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&locale=en" alt="jakirniloy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakirniloy&" alt="jakirniloy" /></p>
+<br/>
+<br/>
+
+<a href="https://github.com/jakirniloy/github-readme-activity-graph"><img alt="Sabik Rahat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jakirniloy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
