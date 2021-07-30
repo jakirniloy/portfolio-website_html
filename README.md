@@ -12,19 +12,29 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Djangp**
 
-- 👨‍💻 All of my projects are available at [https://jakirniloy.github.io](https://jakirniloy.github.io)
 
-- 📝 I regularly write articles on [https://jakirniloy.github.io](https://jakirniloy.github.io)
+<br/>
+
+## 🙋‍♂️ About Me
+
+
+- 🌱 I’m currently learning **Django**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jakirniloy.github.io)**
+
+- 🥅 2021 Goals: **To become a successful flutter developer**
 
 - 📫 How to reach me **mdjakirhossen13@gmail.com**
 
 - ⚡ Fun fact **I love to spend time with friends**
 
+<br/>
+<br/>
+
+
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
