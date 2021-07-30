@@ -1,6 +1,7 @@
 
 
-<a href="#"><img width="100%" height="50%" src="https://user-images.githubusercontent.com/48614476/127688471-98d35ec1-816e-4b5a-aa85-b0077ea113dc.png" height="100px"/></a>
+
+<a href="#"><img width="100%" height="50%" src="https://user-images.githubusercontent.com/48614476/127688951-67a3290d-edf6-48b7-b881-cec078c74f96.png" height="100px"/></a>
 
 <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy</h1>
 <h3 align="center">I'm a Student, Self-Learner and a Developer from Bangladesh</h3>
