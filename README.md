@@ -38,7 +38,7 @@
 <p><a href="https://www.buymeacoffee.com/JakirNiloy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JakirNiloy" /></a></p><br><br>
 
   <br/>
-    <a href="https://github.com/jakirniloy/github-readme-stats"><img alt="Sabik Rahat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabikrahat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/jakirniloy/github-readme-stats"><img alt="Sabik Rahat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jakirniloy/github-readme-stats"><img alt="jakirniloy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
